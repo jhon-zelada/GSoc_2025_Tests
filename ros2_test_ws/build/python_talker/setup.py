@@ -1,0 +1,1 @@
+/home/jhon/GSC_2025_test/ros2_test_ws/src/python_talker/setup.py

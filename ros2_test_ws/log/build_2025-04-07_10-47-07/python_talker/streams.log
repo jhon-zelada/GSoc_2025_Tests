@@ -1,0 +1,17 @@
+[0.351s] Invoking command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker': PYTHONPATH=/home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/build --no-deps symlink_data
+[0.483s] running develop
+[0.571s] running egg_info
+[0.571s] writing python_talker.egg-info/PKG-INFO
+[0.571s] writing dependency_links to python_talker.egg-info/dependency_links.txt
+[0.571s] writing entry points to python_talker.egg-info/entry_points.txt
+[0.571s] writing requirements to python_talker.egg-info/requires.txt
+[0.571s] writing top-level names to python_talker.egg-info/top_level.txt
+[0.573s] reading manifest file 'python_talker.egg-info/SOURCES.txt'
+[0.573s] writing manifest file 'python_talker.egg-info/SOURCES.txt'
+[0.574s] running build_ext
+[0.574s] Creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/lib/python3.10/site-packages/python-talker.egg-link (link to .)
+[0.575s] Installing talker_node_executable script to /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/lib/python_talker
+[0.575s] 
+[0.575s] Installed /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker
+[0.575s] running symlink_data
+[0.591s] Invoked command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker' returned '0': PYTHONPATH=/home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/build --no-deps symlink_data

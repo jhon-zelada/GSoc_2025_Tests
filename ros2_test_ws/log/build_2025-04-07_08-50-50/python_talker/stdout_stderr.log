@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating python_talker.egg-info
+writing python_talker.egg-info/PKG-INFO
+writing dependency_links to python_talker.egg-info/dependency_links.txt
+writing entry points to python_talker.egg-info/entry_points.txt
+writing requirements to python_talker.egg-info/requires.txt
+writing top-level names to python_talker.egg-info/top_level.txt
+writing manifest file 'python_talker.egg-info/SOURCES.txt'
+reading manifest file 'python_talker.egg-info/SOURCES.txt'
+writing manifest file 'python_talker.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/lib/python3.10/site-packages/python-talker.egg-link (link to .)
+
+Installed /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker
+running symlink_data
+creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/ament_index
+creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/ament_index/resource_index
+creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/ament_index/resource_index/packages
+symbolically linking /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/resource/python_talker -> /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/ament_index/resource_index/packages
+symbolically linking /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/package.xml -> /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/python_talker

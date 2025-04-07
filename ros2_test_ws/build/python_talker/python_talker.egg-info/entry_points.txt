@@ -1,0 +1,3 @@
+[console_scripts]
+talker_node_executable = python_talker.talker_node:main
+

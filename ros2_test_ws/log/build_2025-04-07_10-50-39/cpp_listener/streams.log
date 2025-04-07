@@ -1,0 +1,26 @@
+[0.009s] Invoking command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker:/opt/ros/humble /usr/bin/cmake --build /home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener -- -j32 -l32
+[0.049s] [35m[1mConsolidate compiler generated dependencies of target listener_node[0m
+[0.062s] [ 50%] [32mBuilding CXX object CMakeFiles/listener_node.dir/src/listener_node.cpp.o[0m
+[4.470s] [100%] [32m[1mLinking CXX executable listener_node[0m
+[4.722s] [100%] Built target listener_node
+[4.738s] Invoked command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker:/opt/ros/humble /usr/bin/cmake --build /home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener -- -j32 -l32
+[4.747s] Invoking command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker:/opt/ros/humble /usr/bin/cmake --install /home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener
+[4.752s] -- Install configuration: ""
+[4.753s] -- Execute custom install script
+[4.753s] -- Symlinking: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/lib/cpp_listener/listener_node
+[4.762s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/ament_index/resource_index/package_run_dependencies/cpp_listener
+[4.763s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/ament_index/resource_index/parent_prefix_path/cpp_listener
+[4.763s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/environment/ament_prefix_path.sh
+[4.763s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/environment/ament_prefix_path.dsv
+[4.763s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/environment/path.sh
+[4.764s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/environment/path.dsv
+[4.764s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/local_setup.bash
+[4.764s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/local_setup.sh
+[4.764s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/local_setup.zsh
+[4.764s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/local_setup.dsv
+[4.764s] -- Symlinking: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/package.dsv
+[4.777s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/ament_index/resource_index/packages/cpp_listener
+[4.778s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/cmake/cpp_listenerConfig.cmake
+[4.778s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/cmake/cpp_listenerConfig-version.cmake
+[4.778s] -- Up-to-date symlink: /home/jhon/GSC_2025_test/ros2_test_ws/install/cpp_listener/share/cpp_listener/package.xml
+[4.781s] Invoked command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker:/opt/ros/humble /usr/bin/cmake --install /home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener

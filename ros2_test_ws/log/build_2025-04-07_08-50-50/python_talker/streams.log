@@ -1,0 +1,23 @@
+[0.352s] Invoking command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker': PYTHONPATH=/home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/build --no-deps symlink_data
+[0.457s] running develop
+[0.512s] running egg_info
+[0.512s] creating python_talker.egg-info
+[0.512s] writing python_talker.egg-info/PKG-INFO
+[0.512s] writing dependency_links to python_talker.egg-info/dependency_links.txt
+[0.512s] writing entry points to python_talker.egg-info/entry_points.txt
+[0.512s] writing requirements to python_talker.egg-info/requires.txt
+[0.512s] writing top-level names to python_talker.egg-info/top_level.txt
+[0.513s] writing manifest file 'python_talker.egg-info/SOURCES.txt'
+[0.513s] reading manifest file 'python_talker.egg-info/SOURCES.txt'
+[0.513s] writing manifest file 'python_talker.egg-info/SOURCES.txt'
+[0.514s] running build_ext
+[0.514s] Creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/lib/python3.10/site-packages/python-talker.egg-link (link to .)
+[0.514s] 
+[0.514s] Installed /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker
+[0.514s] running symlink_data
+[0.514s] creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/ament_index
+[0.514s] creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/ament_index/resource_index
+[0.515s] creating /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/ament_index/resource_index/packages
+[0.515s] symbolically linking /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/resource/python_talker -> /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/ament_index/resource_index/packages
+[0.515s] symbolically linking /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/package.xml -> /home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/share/python_talker
+[0.526s] Invoked command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker' returned '0': PYTHONPATH=/home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jhon/GSC_2025_test/ros2_test_ws/build/python_talker/build --no-deps symlink_data

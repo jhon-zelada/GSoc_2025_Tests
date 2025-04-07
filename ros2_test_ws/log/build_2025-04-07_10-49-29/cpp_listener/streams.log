@@ -1,0 +1,11 @@
+[0.009s] Invoking command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker:/opt/ros/humble /usr/bin/cmake --build /home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener -- -j32 -l32
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target listener_node[0m
+[0.054s] [ 50%] [32mBuilding CXX object CMakeFiles/listener_node.dir/src/listener_node.cpp.o[0m
+[1.304s] [01m[K/home/jhon/GSC_2025_test/ros2_test_ws/src/cpp_listener/src/listener_node.cpp:17:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ after class definition
+[1.304s]    17 | }
+[1.304s]       |  [01;31m[K^[m[K
+[1.304s]       |  [32m[K;[m[K
+[2.583s] gmake[2]: *** [CMakeFiles/listener_node.dir/build.make:76: CMakeFiles/listener_node.dir/src/listener_node.cpp.o] Error 1
+[2.584s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/listener_node.dir/all] Error 2
+[2.584s] gmake: *** [Makefile:146: all] Error 2
+[2.587s] Invoked command in '/home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jhon/GSC_2025_test/ros2_test_ws/install/python_talker:/opt/ros/humble /usr/bin/cmake --build /home/jhon/GSC_2025_test/ros2_test_ws/build/cpp_listener -- -j32 -l32
