@@ -64,8 +64,6 @@ This project simulates the Brownian motion of a robot within a bounded 2D scenar
 
 This project is licensed under the MIT License.  
 
-## Displaying Animation
+## Robot motion DEMO
 
 ![Robot Motion](python_test/robot_motion.gif)
-
-Make sure the GIF file (`robot_motion.gif`) is in the same directory as your notebook or provide the correct path to the file.
