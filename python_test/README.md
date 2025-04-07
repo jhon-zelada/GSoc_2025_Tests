@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 
 ## Robot motion DEMO
 
-![Robot Motion](python_test/robot_motion.gif)
+![Robot Motion](robot_motion.gif)
