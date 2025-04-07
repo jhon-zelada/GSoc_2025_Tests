@@ -64,15 +64,8 @@ This project simulates the Brownian motion of a robot within a bounded 2D scenar
 
 This project is licensed under the MIT License.  
 
-## Displaying the GIF
+## Displaying Animation
 
-To display the generated GIF directly in a Jupyter Notebook or similar environment, you can use the following code snippet:
-
-```python
-from IPython.display import Image
-
-# Display the GIF
-Image(filename='robot_motion.gif')
-```
+![Robot Motion](python_test/robot_motion.gif)
 
 Make sure the GIF file (`robot_motion.gif`) is in the same directory as your notebook or provide the correct path to the file.
